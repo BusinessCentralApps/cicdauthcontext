@@ -137,6 +137,8 @@ jobs:
         id: determineArtifactUrl
         if: steps.DetermineBuildProject.outputs.BuildIt == 'True'
         uses: freddydk/AL-Go/Actions/DetermineArtifactUrl@cicdauthcontext
+        env:
+          Secrets: '${{ steps.ReadSecrets.outputs.Secrets }}'
         with:
           shell: ${{ inputs.shell }}
           project: ${{ inputs.project }}
