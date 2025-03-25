@@ -1,5 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@cicdauthcontext",
-  "templateSha": "727ec1bc4e5ea822c0902fe308ffb62db2468719"
+  "templateSha": "727ec1bc4e5ea822c0902fe308ffb62db2468719",
+  "githubRunnerShell": "pwsh"
 }
