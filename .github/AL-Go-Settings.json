@@ -4,6 +4,6 @@
   "templateSha": "727ec1bc4e5ea822c0902fe308ffb62db2468719",
   "githubRunnerShell": "pwsh",
   "aldoc": {
-    "continuousDeployment": true
+    "continuousDeployment": false
   }
 }
