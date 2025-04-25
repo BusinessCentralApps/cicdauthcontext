@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@cicdauthcontext",
-  "templateSha": "33377684779d8bc31f8562eabdcb3fcf75431be3",
+  "templateSha": "d050dbe2bb8069fd6c7ce125ab04f23a611642db",
   "githubRunnerShell": "pwsh",
   "aldoc": {
     "continuousDeployment": false
